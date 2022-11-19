@@ -60,7 +60,11 @@ I am currently studying to become a Full Stack Developer, <img src="https://medi
 
 - :zap: In my free time, I like to solve problems on LeetCode ⌨️ || CSSBattle ⚔️ || Art 🎨 || Gaming 🎮🕹️💻
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/TheBlocDoc-darkblue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/brandon-benes-jr-front-end-developer)[![Twitter Badge](https://img.shields.io/badge/TheBlocDoc-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://codepen.io/TheBlocDoc)[![Instagram Badge](https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theblocdoc/?hl=en)[![Discord Badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UaBgHQBE)
+- :mailbox:How to reach me: 
+ [![Linkedin Badge](https://img.shields.io/badge/Linkedin-darkblue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/brandon-benes-jr-front-end-developer)
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://codepen.io/TheBlocDoc)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theblocdoc/?hl=en)
+ [![Discord Badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UaBgHQBE)
 
 ---
 
