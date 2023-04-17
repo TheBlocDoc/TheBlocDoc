@@ -56,7 +56,7 @@ I am currently studying to become a Full Stack Developer, <img src="https://medi
 
 - :telescope: I’m working as a 1099 IT Field Technician and I do freelance web projects on the side.  
 
-- :seedling: Currently pursuing the MERN Stack (MongoDB(Hybrid DB)🖥️, Express(Node.JS Framework)🚄, React(JavaScript Framework)⚛️, Node.JS).
+- :seedling: Currently pursuing the MERN Stack (MongoDB(Non-RDBMS)🖥️, Express(Node.JS Framework)🚄, React(JavaScript Framework)⚛️, Node.JS).
 
 - :zap: In my free time, I like to solve problems on LeetCode ⌨️ || CSSBattle ⚔️ || Art 🎨 || Gaming 🎮🕹️💻
 
